@@ -1,0 +1,11 @@
+Origin: PointCloudStudio
+Label: PointCloudStudio
+Suite: stable
+Codename: stable
+Date: Wed, 28 Oct 2026 10:06:39 GMT
+Architectures: amd64
+Components: main
+Description: PointCloud Studio for Ubuntu 24.04 and later (amd64)
+SHA256:
+ 5fb5b7d77a9029b78a02f4c429e4bc2410aad83c6c12dfd7890358fd58b1c4ad              799 main/binary-amd64/Packages
+ 48cf601d302b70b9344dbda6d87a0b0b5c3b4ef8107047133f3f00da80dc9022              469 main/binary-amd64/Packages.gz

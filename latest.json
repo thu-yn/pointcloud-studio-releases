@@ -1,0 +1,6 @@
+{
+  "version": "0.4.1",
+  "wingetId": "ThuYn.PointCloudStudio",
+  "installerUrl": "https://github.com/thu-yn/pointcloud-studio-releases/releases/download/v0.4.1/PointCloudStudio-0.4.1-windows-x64-Setup.exe",
+  "installerSha256": "92C5F05F978A3DE8E5BF79C63465C296EC654A61509E2DC7C8B4EB5F980F289F"
+}

@@ -1,0 +1,15 @@
+Architecture: amd64
+Depends: libqt6sql6-sqlite, qt6-qpa-plugins, libc6 (>= 2.35), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.4.0), libqt6gui6t64 (>= 6.4.0), libqt6opengl6t64 (>= 6.1.2), libqt6openglwidgets6t64 (>= 6.1.2), libqt6sql6t64 (>= 6.1.2), libqt6widgets6t64 (>= 6.3.0), libstdc++6 (>= 13.1)
+Description: Point cloud viewing, processing and bounded engineering analysis
+Homepage: https://github.com/thu-yn/pointcloud-studio-releases
+Maintainer: thu-yn <thu-yn@users.noreply.github.com>
+Package: pointcloud-studio
+Priority: optional
+Recommends: fonts-noto-cjk, ocl-icd-libopencl1
+Section: science
+Version: 0.4.1
+Installed-Size: 2567
+Filename: pool/main/p/pointcloud-studio/pointcloud-studio_0.4.1_amd64.deb
+Size: 1058256
+SHA256: 980b7964e44fcedfa7651658dd0ed6f7509900af2da82ee9b156727bc794f170
+
