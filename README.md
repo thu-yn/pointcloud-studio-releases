@@ -47,3 +47,5 @@ winget upgrade --id ThuYn.PointCloudStudio --exact --source winget
 版本化安装包放在 Releases；APT 索引使用独立的 GPG 发布密钥签名，客户端通过 `signed-by` 指定公钥。保留历史版本的安装包和索引信息，已发布版本的文件不会用不同内容覆盖。`latest.json` 和 `manifests/` 保存当前版本与 winget 清单。
 
 应用为专有软件，源码不在本仓库公开。安装包内包含第三方组件声明与相关许可文本。
+
+winget 清单修订：原始清单压缩包缺少上游要求的 schema 注释头；请使用发布页的 `PointCloudStudio-0.4.1-winget-manifests-r2.zip` 或本仓库 `manifests/` 下的修正版。应用安装包及 APT 包保持原有内容。
