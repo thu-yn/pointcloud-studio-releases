@@ -2,6 +2,12 @@
 
 这个仓库只公开安装包、包管理器清单、APT 公钥和更新索引。应用源码继续保存在私有仓库，不在这里发布。
 
+## 当前发布状态（2026-10-28）
+
+0.4.1 安装包和签名 APT 源已上线，并验证了公网下载的内容与构建结果一致。Windows 安装/升级/保留项目卸载，以及干净 Ubuntu 容器里的 APT 安装/升级/程序启动和篡改索引拒绝，均已通过。
+
+winget 上架申请：[PR #463900](https://github.com/microsoft/winget-pkgs/pull/463900)，目前尚未合并。微软机器人已要求账号本人阅读并确认 [CLA 贡献者协议](https://github.com/microsoft/winget-pkgs/pull/463900#issuecomment-6466297899)，之后仍需上游检查、审核和目录同步。现在可以用 APT 或直接下载 Windows 安装包；不能把 winget 已提交写成已经可搜索安装。
+
 ## Ubuntu 24.04 及更新版本（amd64）
 
 首次添加更新源：
